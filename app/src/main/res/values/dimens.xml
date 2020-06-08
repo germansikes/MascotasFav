@@ -1,0 +1,17 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="marginTop">10dp</dimen>
+    <dimen name="txtNombre">26dp</dimen>
+    <dimen name="txtButton">35dp</dimen>
+    <dimen name="cvRadius">5dp</dimen>
+    <dimen name="cvWidth">350dp</dimen>
+    <dimen name="cvHeight">300dp</dimen>
+    <dimen name="txtNombreWidth">206dp</dimen>
+    <dimen name="likeButtonHeight">45dp</dimen>
+    <dimen name="elevationActonBar">4dp</dimen>
+    <dimen name="raisedButtonElevation">4dp</dimen>
+    <dimen name="FABElevation">12dp</dimen>
+    <dimen name="elevationCV">3dp</dimen>
+</resources>

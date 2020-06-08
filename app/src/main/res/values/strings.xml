@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PROYECTO MASCOTAS</string>
+    <string name="btnPortadaText">Ingresar</string>
+    <string name="pdog">dato</string>
+    <string name="pLike">1</string>
+    <string name="actionfav">Favs</string>
+    <string name="actionSettings">Settings</string>
+</resources>
